@@ -1,0 +1,26 @@
+{
+  "firestore": {
+	"rules": "firestore.rules",
+	"indexes": "firestore.indexes.json"
+  },
+  "flutter": {
+	"platforms": {
+	  "android": {
+		"default": {
+		  "projectId": "studentenrollment-816da",
+		  "appId": "1:1077108449843:android:6512785fcfdc532945b946",
+		  "fileOutput": "android/app/google-services.json"
+		}
+	  },
+	  "dart": {
+		"lib/firebase_options.dart": {
+		  "projectId": "studentenrollment-816da",
+		  "configurations": {
+			"android": "1:1077108449843:android:6512785fcfdc532945b946",
+			"web": "1:1077108449843:web:8a5d02fc15814dad45b946"
+		  }
+		}
+	  }
+	}
+  }
+}

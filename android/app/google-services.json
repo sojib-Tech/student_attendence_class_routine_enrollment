@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1077108449843",
+    "project_id": "studentenrollment-816da",
+    "storage_bucket": "studentenrollment-816da.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077108449843:android:6512785fcfdc532945b946",
+        "android_client_info": {
+          "package_name": "com.example.student_attendence_class_routine_enrollment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXC9eTeHlfGIm6mdmsdWnmgN4vFP6E72E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
